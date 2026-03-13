@@ -77,3 +77,10 @@ Fast to train on tabular data
 Less prone to overfitting than deep models given the small tournament dataset (~1,000–2,000 labelled games per gender)
 
 
+
+
+Results
+Baseline (always predict 0.5)--- 0.2500
+This model (OOF on historical data)~--- 0.19–0.21
+
+
